@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Olá, eu sou o Alan Gonçalves!
+
+🌱 Atualemente, estudando Web Development na Trybe
+
+
 <!--
 **alansgoncalves/alansgoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
