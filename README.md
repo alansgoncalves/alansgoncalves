@@ -2,7 +2,7 @@
 
 Olá, eu sou o Alan Gonçalves!
 
-🌱 Atualemente, estudando Web Development na Trybe
+🌱 Atualmente, estudando Web Development na Trybe
 
 
 <!--
