@@ -12,6 +12,13 @@ Olá, eu sou o Alan Gonçalves!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansgoncalves&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
+  <div align="center">
+<a href="https://github.com/alansgoncalves">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansgoncalves&layout=compact&langs_count=7&hide_border=true&theme=dracula" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api?username=alansgoncalves&show_icons=true&hide_border=true&theme=dracula" width="33%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alansgoncalves&hide_border=true&theme=dracula" width="33%">
+</div> 
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
