@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Olá, eu sou o Alan Gonçalves!
+🌱 I'm  Alan Gonçalves, Web Developer student!
 
-🌱 Atualmente, estudando Web Development Full Stack
-
-📫 e-mail: vekio.soft@gmail.com
+🔭 I’m currently learning Web Design and Web Developing. I have already gained some knowledge of HTML, CSS, JS, React and Redux, Node.js, MySQL and MongoDB.
 
 <div align="center">
   <a href="https://github.com/alansgoncalves">
