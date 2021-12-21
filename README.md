@@ -10,7 +10,7 @@ Olá, eu sou o Alan Gonçalves!
   <a href="https://github.com/alansgoncalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansgoncalves&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansgoncalves&layout=compact&langs_count=7&theme=gotham"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alansgoncalves&hide_border=true&theme=gotham" width="33%">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alansgoncalves&hide_border=true&theme=gotham"/>
 </div>
   
   <div style="display: inline_block"><br>
