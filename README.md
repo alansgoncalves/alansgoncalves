@@ -3,7 +3,7 @@
 Olá, eu sou o Alan Gonçalves!
 
 🌱 Atualmente, estudando Web Development Full Stack
-- 📫 Contacte-me no e-mail: vekio.soft@gmail.com
+📫 e-mail: vekio.soft@gmail.com
 
 <div align="center">
   <a href="https://github.com/alansgoncalves">
