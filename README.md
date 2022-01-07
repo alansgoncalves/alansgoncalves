@@ -2,7 +2,7 @@
 
 🌱 I'm  Alan Gonçalves!
 
-🔭 I’m currently learning Web Design and Web Developing. I have already gained some knowledge of HTML, CSS, JS, React and Redux, Node.js, MySQL and MongoDB.
+🔭 I’m currently learning Web Design and Web Developing. I have already gained some knowledge of HTML, CSS, JS, ReactJs, Redux and Hooks. Node.js, MySQL and MongoDB.
 
 <div align="center">
   <a href="https://github.com/alansgoncalves">
