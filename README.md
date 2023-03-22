@@ -4,14 +4,6 @@
 
 🔭 I’m currently learning Web Design and Web Developing. I have already gained some knowledge of HTML, CSS, JS, ReactJs, Redux and Hooks. Node.js, MySQL and MongoDB.
 
-<div align="center">
-  <a href="https://github.com/alansgoncalves">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=alansgoncalves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansgoncalves&layout=compact&langs_count=7&theme=radical"/>
-<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alansgoncalves&hide_border=true&theme=gotham"/>
-</div> -->
-    
-    <div align="center">
   <a href="https://github.com/alansgoncalves">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=alansgoncalves&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansgoncalves&layout=compact&langs_count=7&theme=cobalt"/>
