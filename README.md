@@ -4,13 +4,13 @@
 
 🔭 I’m currently learning Web Design and Web Developing. I have already gained some knowledge of HTML, CSS, JS, ReactJs, Redux and Hooks. Node.js, MySQL and MongoDB.
 
+<div style="display: inline_block>
   <a href="https://github.com/alansgoncalves">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=alansgoncalves&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansgoncalves&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-  ##
       
-  <div style="display: inline_block, justifyContent: center"><br>
+  <div style="display: inline_block><br>
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alan-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
