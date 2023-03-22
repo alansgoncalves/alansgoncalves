@@ -10,6 +10,8 @@
  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansgoncalves&layout=compact&langs_count=7&theme=cobalt"/>
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alansgoncalves&hide_border=true&theme=gotham"/>
 </div> -->
+    <br />
+    <br />
       
   <div style="display: inline_block><br>
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +24,7 @@
   <img align="center" alt="Alan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alan-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
+    <br />
 
 <div> 
   <a href="https://instagram.com/high_devops" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
